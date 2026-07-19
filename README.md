@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo! 
 
-<!--
-**LeonardoSantos00/LeonardoSantos00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IF Baiano, com foco no desenvolvimento Back-end e na construção de sistemas robustos e escaláveis. 
 
-Here are some ideas to get you started:
+Atualmente, dedico meus estudos e projetos ao ecossistema Java, priorizando a aplicação de boas práticas de Orientação a Objetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+*   **Linguagem Principal:** Java (POO, Herança, Polimorfismo)
+*   **Banco de Dados:** MySQL (Modelagem e manipulação via JDBC)
+*   **Versionamento:** Git e GitHub
+*   **Ambiente e Infraestrutura:** Linux (Pop!_OS) e Docker
+*   **Idiomas:** Português (Nativo) e Inglês Instrumental (Básico)
+
+### 🚀 O que estou fazendo agora
+*   🎓 Finalizando minha graduação em ADS no IF Baiano.
+*   🌱 Aprofundando conhecimentos em performance de sistemas e arquitetura Java.
+
+### 📫 Como me encontrar
+*   **E-mail:** leonnardo.santtos1@gmail.com
